@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,HTML,CSS,JS,DJANGO,flutter
 - 💞️ I’m looking to collaborate on Coders
 - 📫 How to reach me ammar20100302@gmail.com
-
+- 😒 I Dont intrested in Gaming
 
 <!---
 Ammar-coder806/Ammar-coder806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
