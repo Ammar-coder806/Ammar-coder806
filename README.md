@@ -10,18 +10,6 @@
 
 
 
-👋 Hey there! I’m 
-
-
-Passionate about: Building interactive, responsive, and accessible websites and web apps
-Currently exploring: Django for back-end development and implementing AI-driven features for enhanced user experiences
-Skillset: HTML, CSS, JavaScript, Python, Django, UI/UX principles, and responsive design
-Projects: Working on e-learning platforms, social media apps, and innovative tech solutions
-Mission: To leverage technology for education and empowerment through open-source contributions
-🌱 Always experimenting, always growing. Let’s connect and make something awesome!
-
-
-
 
 
 
