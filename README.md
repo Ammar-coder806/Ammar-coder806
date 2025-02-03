@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python,HTML,CSS,JS,DJANGO,flutter
 - 💞️ I’m looking to collaborate on Code Heros
 - 📫 How to reach me ammar20100302@gmail.com
-- 😒 I Dont intrested in Gaming
+- 😒 I Don't interested in Playing
 - 🤯 I Have Lots Of Code Files
 - 😁 My Every Day Companion Is Chat GPT 🤖
 
